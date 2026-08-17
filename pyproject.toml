@@ -1,0 +1,11 @@
+[project]
+name = "giraffe-dashboard"
+version = "0.1.0"
+dependencies = [
+  "django>=5.0",
+  "pandas",
+  "pyodbc",
+  "reportlab",
+  "matplotlib",
+  "sqlalchemy>=2.0.51",
+]
